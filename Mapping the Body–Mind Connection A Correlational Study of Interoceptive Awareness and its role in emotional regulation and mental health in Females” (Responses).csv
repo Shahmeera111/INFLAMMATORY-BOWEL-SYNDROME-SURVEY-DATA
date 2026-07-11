@@ -1,0 +1,327 @@
+Timestamp,1. Name,2. Age:,3. Occupation ,1. Been upset because something happened unexpectedly? ,2. Felt unable to control important things in your life? ,3. Felt nervous and “stressed”? ,4. Felt confident about handling personal problems?,5. Felt that things were going your way? ,6. Found you could not cope with all the things you had to do? ,7. Been able to control irritations in your life? ,8. Felt that you were on top of things? ,9. Been angered because of things outside your control?,10. Felt difficulties were pulling up so high that you could not overcome them? ,"1. Abdominal pain
+a. Do you currently suffer from abdominal (belly) pain?","If yes, continue please:
+Severity of abdominal pain:",Number of days with pain (last 10 days):,"2. Abdominal Distension (Bloating);
+a. Do you experience abdominal distension (bloating)?","If Yes, continue:
+Severity of distension:","3. Satisfaction with Bowel Habits:
+Indicate your satisfaction level:","4. Interference with Daily Life
+How much does IBS affect your daily life?"
+4/14/2026 14:35:59,,20-30 years,,Option 0,Option 1,Option 0,Option 4,Option 3,Option 2,Option 4,Option 2,Option 1,Option 3,No,,,No,,Very satisfied (100%),Not at all
+4/17/2026 9:22:05,Tasmiya khurram,18-33 years,Student,Option 4,Option 2,Option 2,Option 4,Option 2,Option 2,Option 2,Option 1,Option 4,Option 2,Yes,Mild,2 days,No,None,Somewhat satisfied,Mild
+4/17/2026 9:24:09,Shehzadi Malaika,18-33 years,Student,Option 2,Option 1,Option 0,Option 3,Option 2,Option 1,Option 2,Option 2,Option 2,Option 2,No,,,No,,Very satisfied (100%),Not at all
+4/17/2026 9:28:29,Sana khurram,34-49 years,Housewife,Option 0,Option 0,Option 1,Option 0,Option 4,Option 0,Option 0,Option 4,Option 4,Option 0,Yes,Moderate,2days,No,None,Somewhat satisfied,Mild
+4/17/2026 9:41:25,Faryal sharyar ,33-47 years,House wife,Option 3,Option 3,Option 2,Option 1,Option 2,Option 2,Option 2,Option 2,Option 3,Option 2,No,No pain(0%),0,No,,Somewhat satisfied,Mild
+4/19/2026 17:35:20,Areeba Arif ,18-32 years,Medical student,Option 3,Option 2,Option 4,Option 2,Option 2,Option 3,Option 2,Option 2,Option 3,Option 2,Yes,Mild,30 days,No,None,Somewhat satisfied,Mild
+4/21/2026 17:28:13,Mehak,18-32 years,House wife,Option 2,Option 3,Option 3,Option 2,Option 2,Option 2,Option 1,Option 2,Option 3,Option 2,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+4/21/2026 18:00:09,Eshmaal ,18-32 years,Business ,Option 4,Option 2,Option 2,Option 4,Option 3,Option 0,Option 3,Option 2,Option 3,Option 2,No,No pain(0%),0,No,,Very satisfied (100%),Moderate
+4/21/2026 18:02:15,Sehrish ,18-32 years,Pharm D student ,Option 2,Option 1,Option 3,Option 3,Option 2,Option 3,Option 4,Option 2,Option 1,Option 2,No,,,No,,Somewhat satisfied,Not at all
+4/21/2026 18:08:01,Jaweria Afzal ,18-32 years,student ,Option 2,Option 1,Option 2,Option 4,Option 3,Option 1,Option 3,Option 2,Option 2,Option 1,No,,,No,,Very satisfied (100%),Not at all
+4/21/2026 18:21:43,Aiman,18-32 years,House wife,Option 2,Option 3,Option 4,Option 0,Option 0,Option 1,Option 3,Option 3,Option 1,Option 0,Yes,Severe,No,No,None,Not at all satisfied (0%),Not at all
+4/21/2026 19:33:20,,33-47 years,House wife,Option 4,Option 4,Option 4,Option 1,Option 1,Option 4,Option 1,Option 1,Option 4,Option 1,No,No pain(0%),No pain,No,None,Very satisfied (100%),Not at all
+4/21/2026 19:35:41,Javeria Sani ,33-47 years,Job,Option 4,Option 4,Option 4,Option 1,Option 0,Option 4,Option 2,Option 1,Option 3,Option 4,Yes,Moderate,4-5,Yes,Very severe,Somewhat satisfied,Severe
+4/22/2026 0:38:53,Uruj,18-32 years,Teaching ,Option 3,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 1,Yes,Mild,7,Yes,Mild,Not at all satisfied (0%),Mild
+4/22/2026 0:39:23,Humna,18-32 years,4th year MBBS student,Option 2,Option 0,Option 2,Option 4,Option 2,Option 2,Option 4,Option 4,Option 4,Option 2,No,No pain(0%),,Yes,Moderate,Very satisfied (100%),Not at all
+4/22/2026 1:47:22,Areeba Amir,18-32 years,Doctor,Option 2,Option 2,Option 3,Option 1,Option 2,Option 2,Option 3,Option 2,Option 2,Option 2,Yes,Moderate,2 times,Yes,Moderate,Somewhat satisfied,Mild
+4/22/2026 3:34:35,Zainab,18-32 years,Student,Option 3,Option 3,Option 3,Option 4,Option 4,Option 3,Option 4,Option 4,Option 4,Option 4,No,,,No,,Not at all satisfied (0%),Not at all
+4/22/2026 7:10:46,Maria Jalal,18-32 years,Student and teacher ,Option 0,Option 2,Option 1,Option 4,Option 4,Option 0,Option 4,Option 2,Option 1,Option 2,No,No pain(0%),,No,None,Very satisfied (100%),Mild
+4/22/2026 17:51:40,Afnan ,18-32 years,Physiotheraist ,Option 2,Option 1,Option 2,Option 4,Option 2,Option 0,Option 4,Option 0,Option 1,Option 1,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Not at all
+4/22/2026 19:38:24,Arusa,18-32 years,Student,Option 2,Option 3,Option 2,Option 3,Option 3,Option 2,Option 1,Option 2,Option 3,Option 1,No,,,No,,Somewhat satisfied,Mild
+4/22/2026 20:11:43,Arooba Sajid,18-32 years,Student,Option 3,Option 3,Option 4,Option 4,Option 2,Option 2,Option 2,Option 4,Option 1,Option 3,Yes,Mild,4,Yes,Moderate,Somewhat satisfied,Moderate
+4/22/2026 20:57:11,Nayab,18-32 years,Student ,Option 0,Option 3,Option 4,Option 4,Option 0,Option 4,Option 3,Option 0,Option 4,Option 4,Yes,No pain(0%),3,No,Mild,Not at all satisfied (0%),Mild
+4/22/2026 21:10:41,Mayam zehra ,18-32 years,Mass com ,Option 2,Option 1,Option 4,Option 2,Option 3,Option 2,Option 4,Option 1,Option 3,Option 0,No,No pain(0%),No pain ,No,None,Somewhat satisfied,Mild
+4/22/2026 23:53:42,Shauwana ,18-32 years,Student ,Option 4,Option 3,Option 4,Option 3,Option 2,Option 3,Option 2,Option 2,Option 1,Option 1,No,,,No,,Very satisfied (100%),Not at all
+4/23/2026 1:06:32,Alishba,18-32 years,Student ,Option 2,Option 4,Option 2,Option 3,Option 2,Option 3,Option 0,Option 2,Option 4,Option 4,No,Moderate,2 days ago,Yes,Moderate,Somewhat satisfied,Moderate
+4/23/2026 2:35:37,NOOR UL AIN,18-32 years,Marketing,Option 3,Option 2,Option 2,Option 4,Option 1,Option 2,Option 3,Option 1,Option 2,Option 2,No,,,No,,Not at all satisfied (0%),Not at all
+4/23/2026 3:21:20,Shifa Khan,18-32 years,MBBS student,Option 3,Option 3,Option 3,Option 4,Option 3,Option 1,Option 2,Option 3,Option 3,Option 3,No,,,Yes,Moderate,Somewhat satisfied,Moderate
+4/27/2026 11:54:20,Ayesha zaka,18-32 years,Student ,Option 2,Option 3,Option 4,Option 3,Option 3,Option 2,Option 4,Option 3,Option 3,Option 3,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+4/27/2026 11:58:36,Asra,18-32 years,Student,Option 0,Option 0,Option 3,Option 3,Option 3,Option 2,Option 0,Option 4,Option 4,Option 4,Yes,Moderate,3,Yes,Mild,Somewhat satisfied,Moderate
+4/27/2026 12:04:56,Amna Sharif,18-32 years,Student,Option 3,Option 3,Option 3,Option 2,Option 3,Option 1,Option 2,Option 3,Option 3,Option 2,Yes,,1 or 1.5,Yes,Mild,Somewhat satisfied,Moderate
+4/27/2026 12:29:11,Fatima ,18-32 years,Student ,Option 3,Option 2,Option 3,Option 2,Option 2,Option 3,Option 3,Option 2,Option 3,Option 3,Yes,Moderate,2-3,No,,Somewhat satisfied,Mild
+4/27/2026 14:11:07,Sarah ,18-32 years,Undergraduate ,Option 4,Option 0,Option 2,Option 0,Option 2,Option 0,Option 4,Option 3,Option 0,Option 4,No,,,No,,Not at all satisfied (0%),Not at all
+4/27/2026 14:12:28,Alisha,18-32 years,IM chat associate,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,Option 1,Option 2,Option 4,Option 1,Yes,Moderate,,Yes,Moderate,Somewhat satisfied,Moderate
+4/27/2026 14:13:22,Hafsa Taj,18-32 years,Student,Option 4,Option 4,Option 1,Option 3,Option 1,Option 3,Option 1,Option 1,Option 3,Option 3,Yes,Moderate,2,No,None,Not at all satisfied (0%),Not at all
+4/27/2026 14:18:01,Qirat Hanif,18-32 years,House wife ,Option 2,Option 2,Option 4,Option 2,Option 1,Option 3,Option 1,Option 2,Option 4,Option 4,Yes,Mild,4 to5 days,Yes,Mild,Somewhat satisfied,Mild
+4/27/2026 14:19:36,Filza,18-32 years,Housewife,Option 4,Option 2,Option 3,Option 4,Option 2,Option 3,Option 1,Option 1,Option 4,Option 2,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Not at all
+4/27/2026 14:35:53,SYEDA AYESHA WASIM ,18-32 years,Teaching ,Option 3,Option 2,Option 2,Option 1,Option 2,Option 1,Option 2,Option 2,Option 2,Option 3,No,No pain(0%),,No,,Very satisfied (100%),Not at all
+4/27/2026 14:49:14,Muskan ,18-32 years,House wife ,Option 0,Option 1,Option 0,Option 2,Option 1,Option 0,Option 0,Option 2,Option 3,Option 1,Yes,Mild,4,No,None,Somewhat satisfied,Not at all
+4/27/2026 15:17:39,Muskaan ,18-32 years,Student ,Option 3,Option 3,Option 3,Option 3,Option 1,Option 3,Option 3,Option 2,Option 2,Option 2,Yes,Severe,4 days,Yes,Mild,Not at all satisfied (0%),Moderate
+4/27/2026 15:21:03,Faryal ,18-32 years,Student ,Option 2,Option 2,Option 3,Option 4,Option 2,Option 2,Option 2,Option 2,Option 4,Option 1,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+4/27/2026 16:05:57,Sana ,18-32 years,Student,Option 4,Option 2,Option 2,Option 3,Option 3,Option 2,Option 2,Option 2,Option 4,Option 3,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Not at all
+4/27/2026 16:47:44,Sidra ,18-32 years,House wife,Option 2,Option 0,Option 2,Option 2,Option 3,Option 1,Option 4,Option 0,Option 3,Option 2,Yes,Mild,2 days ,No,Mild,Somewhat satisfied,Not at all
+4/27/2026 16:58:04,Neha khan,18-32 years,Homemaker,Option 0,Option 2,Option 0,Option 3,Option 0,Option 1,Option 3,Option 3,Option 0,Option 2,No,Mild,1,No,None,Somewhat satisfied,Not at all
+4/27/2026 17:05:43,Muskan,18-32 years,Studying ,Option 0,Option 0,Option 0,Option 2,Option 3,Option 0,Option 3,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Not at all satisfied (0%),Mild
+4/27/2026 17:36:16,Zeeshan,18-32 years,Accountant ,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+4/27/2026 19:36:26,SARAH NADEEM,18-32 years,Student,Option 2,Option 2,Option 2,Option 3,Option 2,Option 2,Option 3,Option 3,Option 2,Option 2,Yes,Moderate,3 days before,Yes,Severe,Somewhat satisfied,Moderate
+4/27/2026 19:40:21,Tehreem Faisal ,18-32 years,Student ,Option 3,Option 4,Option 4,Option 2,Option 2,Option 3,Option 1,Option 2,Option 4,Option 4,No,No pain(0%),0,Yes,Moderate,Not at all satisfied (0%),Mild
+4/27/2026 19:53:54,Ayesha Shahid,18-32 years,Student,Option 3,Option 2,Option 4,Option 3,Option 2,Option 2,Option 3,Option 3,Option 3,Option 3,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+4/27/2026 20:09:50,Urooj,18-32 years,House wife,Option 2,Option 2,Option 2,Option 2,Option 0,Option 2,Option 2,Option 0,Option 4,Option 2,Yes,Mild,3,Yes,Mild,Somewhat satisfied,Mild
+4/27/2026 21:55:05,Ujala,18-32 years,Student,Option 4,Option 4,Option 3,Option 2,Option 1,Option 1,Option 1,Option 1,Option 1,Option 1,Yes,Moderate,1-2,Yes,Mild,Somewhat satisfied,Not at all
+4/27/2026 22:17:08,Sana Jahanzaib khan,18-32 years,Teacher,Option 2,Option 1,Option 0,Option 4,Option 4,Option 0,Option 2,Option 2,Option 2,Option 2,Yes,Moderate,2 days,No,None,Somewhat satisfied,Not at all
+4/27/2026 22:38:43,Ambreen,18-32 years,Microbiologist,Option 2,Option 2,Option 2,Option 4,Option 2,Option 2,Option 3,Option 3,Option 3,Option 2,No,,,Yes,Mild,Very satisfied (100%),Not at all
+4/28/2026 12:06:52,Faiza Shah,18-32 years,Journalist,Option 3,Option 4,Option 3,Option 3,Option 1,Option 2,Option 2,Option 3,Option 4,Option 3,Yes,Severe,3 to 4 days or whenever get conscious ,Yes,Severe,Somewhat satisfied,Moderate
+4/28/2026 12:17:14,Sameen Rafiq,18-32 years,Student of dpt,Option 2,Option 3,Option 2,Option 3,Option 2,Option 3,Option 1,Option 1,Option 3,Option 3,No,No pain(0%),,No,None,Very satisfied (100%),Mild
+4/28/2026 20:25:42,Kainat ,18-32 years,5th yr student dpt,Option 2,Option 3,Option 4,Option 4,Option 2,Option 3,Option 2,Option 2,Option 3,Option 4,Yes,Mild,A week,No,None,Somewhat satisfied,Mild
+4/29/2026 12:23:17,Masooma ,18-32 years,Student ,Option 2,Option 3,Option 4,Option 2,Option 2,Option 2,Option 2,Option 1,Option 3,Option 2,Yes,Mild,,Yes,Moderate,Not at all satisfied (0%),100% completely interferes
+4/29/2026 23:43:41,Zara Khan,18-32 years,Student ,Option 4,Option 3,Option 4,Option 2,Option 3,Option 3,Option 2,Option 2,Option 3,Option 3,Yes,Severe,2,Yes,Moderate,Very satisfied (100%),Mild
+5/1/2026 13:28:58,Batool Fatima,33-47 years,House wife,Option 3,Option 2,Option 3,Option 4,Option 3,Option 3,Option 2,Option 4,Option 4,Option 2,Yes,Moderate,5-6,Yes,Moderate,Somewhat satisfied,Moderate
+5/7/2026 9:38:52,Tanzila Anjum,18-32 years,Student ,Option 2,Option 3,Option 2,Option 3,Option 1,Option 2,Option 3,Option 1,Option 2,Option 2,Yes,Moderate,9,Yes,Mild,Not at all satisfied (0%),Moderate
+5/7/2026 9:42:48,Syeda Zareen,18-32 years,Student,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Yes,Mild,2,Yes,Mild,Somewhat satisfied,Mild
+5/7/2026 9:50:52,Kiran,18-32 years,Student ,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,No,No pain(0%),No pain,No,None,Somewhat satisfied,Moderate
+5/7/2026 10:18:24,Rafia,18-32 years,Student,Option 2,Option 2,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 3,Yes,Very severe (100%),1 day,Yes,Severe,Very satisfied (100%),Severe
+5/12/2026 17:50:46,Nasira batool,33-47 years,House wife,Option 4,Option 3,Option 4,Option 2,Option 2,Option 2,Option 1,Option 2,Option 4,Option 4,Yes,Moderate,7 days,Yes,,Somewhat satisfied,Moderate
+5/12/2026 17:54:58,Rafia batool,33-47 years,House wife,Option 4,Option 1,Option 4,Option 1,Option 1,Option 3,Option 4,Option 2,Option 4,Option 2,Yes,Moderate,No,Yes,Moderate,Not at all satisfied (0%),Not at all
+5/12/2026 18:00:06,Aliya batool,33-47 years,Housewife,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 4,Option 2,Option 4,Option 2,Yes,Mild,2,Yes,Mild,Very satisfied (100%),Not at all
+5/12/2026 18:10:21,Fatima Ali,33-47 years,House wife,Option 2,Option 0,Option 4,Option 4,Option 4,Option 0,Option 4,Option 4,Option 1,Option 0,No,Severe,"No pain but severe when does heavy tasks like standing in the kitchen or pocking bottles, also having hernia. ",Yes,Mild,Somewhat satisfied,Not at all
+5/12/2026 18:12:44,Ruqaiyyah batool,33-47 years,Housewife but does not lives with husband,Option 3,Option 4,Option 4,Option 1,Option 1,Option 4,Option 2,Option 4,Option 4,Option 3,Yes,Mild,2 days,Yes,Mild,Very satisfied (100%),Mild
+5/14/2026 15:24:20,Aysha,18-32 years,Student ,Option 2,Option 0,Option 1,Option 4,Option 3,Option 2,Option 3,Option 1,Option 0,Option 1,Yes,Moderate,4,No,None,Somewhat satisfied,Mild
+5/14/2026 15:28:18,Sawera Afzal ,18-32 years,Student ,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 0,Option 2,Yes,Moderate,4,Yes,Moderate,Somewhat satisfied,Moderate
+5/14/2026 15:38:53,Rayhab,18-32 years,Student ,Option 2,Option 2,Option 2,Option 1,Option 3,Option 2,Option 3,Option 2,Option 3,Option 2,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Mild
+5/18/2026 13:49:26,Iqbal ,48-62 years,Housewife ,Option 3,Option 1,Option 1,Option 4,Option 4,Option 1,Option 3,Option 1,Option 1,Option 1,No,No pain(0%),",, ",No,None,Very satisfied (100%),Not at all
+5/20/2026 14:41:10,Farhat ,48-62 years,Housewife,Option 4,Option 0,Option 0,Option 4,Option 4,Option 4,Option 0,Option 4,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:42:53,Ghazala ,48-62 years,Housewife ,Option 0,Option 3,Option 3,Option 4,Option 4,Option 3,Option 4,Option 0,Option 3,Option 0,Yes,Mild,1 day,No,None,Somewhat satisfied,Not at all
+5/20/2026 14:44:20,Yasmeen ,48-62 years,Housewife ,Option 0,Option 0,Option 0,Option 4,Option 4,Option 0,Option 4,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:46:16,Kausar ,48-62 years,Housewife ,Option 4,Option 0,Option 3,Option 3,Option 3,Option 0,Option 3,Option 0,Option 3,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:49:58,Riffat ,48-62 years,Teacher,Option 4,Option 4,Option 4,Option 3,Option 0,Option 0,Option 4,Option 0,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:51:30,Malka ,48-62 years,Housewife ,Option 4,Option 2,Option 2,Option 4,Option 4,Option 4,Option 4,Option 0,Option 3,Option 0,Yes,Mild,2 days ,Yes,Mild,Somewhat satisfied,Mild
+5/20/2026 14:53:09,Zaibunnisa ,48-62 years,HW ,Option 0,Option 2,Option 0,Option 3,Option 3,Option 0,Option 3,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:54:39,Shama ,48-62 years,HW ,Option 0,Option 0,Option 2,Option 4,Option 4,Option 0,Option 4,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/20/2026 14:56:22,Shaista ,48-62 years,HW,Option 0,Option 0,Option 1,Option 4,Option 3,Option 4,Option 3,Option 0,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/21/2026 18:11:10,Sidra hainf,18-32 years,House wife,Option 4,Option 2,Option 2,Option 2,Option 3,Option 3,Option 2,Option 1,Option 2,Option 4,Yes,Severe,5 days ,No,None,Somewhat satisfied,Not at all
+5/22/2026 0:17:10,Urooj ,18-32 years,Student ,Option 2,Option 4,Option 3,Option 3,Option 2,Option 1,Option 0,Option 2,Option 2,Option 1,Yes,Mild,3,Yes,Mild,Not at all satisfied (0%),Not at all
+5/22/2026 3:55:10,Samreen ,48-62 years,Housewife ,Option 0,Option 3,Option 3,Option 2,Option 0,Option 2,Option 2,Option 2,Option 4,Option 3,No,No pain(0%),,Yes,Moderate,Somewhat satisfied,Not at all
+5/22/2026 12:53:32,Syeda Sabiha,18-32 years,Teaching ,Option 1,Option 3,Option 3,Option 1,Option 0,Option 2,Option 3,Option 0,Option 2,Option 2,Yes,Mild,,Yes,Moderate,Somewhat satisfied,Moderate
+5/22/2026 18:15:37,Neha ali,18-32 years,housewife,Option 2,Option 3,Option 1,Option 4,Option 2,Option 2,Option 1,Option 2,Option 1,Option 0,No,Moderate,2,Yes,Mild,Not at all satisfied (0%),Not at all
+5/22/2026 18:31:39,Qirat hanif ,18-32 years,House wife,Option 4,Option 3,Option 4,Option 3,Option 1,Option 3,Option 3,Option 3,Option 3,Option 3,Yes,Moderate,4,No,Mild,Somewhat satisfied,Moderate
+5/22/2026 23:04:55,Sadia,18-32 years,House wife,Option 2,Option 1,Option 4,Option 3,Option 1,Option 1,Option 4,Option 0,Option 2,Option 1,No,No pain(0%),,Yes,Moderate,Somewhat satisfied,Not at all
+5/23/2026 17:39:47,Sajida hussain,33-47 years,Teacher,Option 3,Option 2,Option 2,Option 1,Option 4,Option 2,Option 4,Option 3,Option 3,Option 2,Yes,Mild,1-2,Yes,Mild,Somewhat satisfied,Not at all
+5/23/2026 17:48:28,Rubina ali,33-47 years,Business woman,Option 2,Option 1,Option 2,Option 4,Option 4,Option 1,Option 3,Option 3,Option 3,Option 1,Yes,Mild,2,Yes,Moderate,Not at all satisfied (0%),Moderate
+5/23/2026 17:51:47,Azneera faiq,33-47 years,Lecturer,Option 3,Option 2,Option 3,Option 4,Option 4,Option 3,Option 4,Option 4,Option 3,Option 2,Yes,Mild,1-2,Yes,Mild,Somewhat satisfied,Mild
+5/23/2026 19:36:49,Maham fatima,33-47 years,Housewife,Option 2,Option 1,Option 1,Option 3,Option 3,Option 2,Option 2,Option 3,Option 2,Option 2,Yes,Moderate,2-3,Yes,Moderate,Not at all satisfied (0%),Moderate
+5/25/2026 17:39:50,Nida Naeem ,18-32 years,Teachers ,Option 3,Option 2,Option 3,Option 3,Option 2,Option 2,Option 2,Option 1,Option 1,Option 2,No,No pain(0%),No ,Yes,Mild,Somewhat satisfied,Moderate
+5/25/2026 23:12:16,ambreen,18-32 years,homeopathic doctor,Option 2,Option 4,Option 3,Option 2,Option 4,Option 0,Option 2,Option 3,Option 3,Option 3,Yes,Moderate,5 days,No,None,Not at all satisfied (0%),Mild
+5/26/2026 0:54:06,Hina sohail,33-47 years,Hoysewife,Option 2,Option 0,Option 1,Option 2,Option 2,Option 2,Option 2,Option 1,Option 1,Option 2,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+5/30/2026 13:15:08,Sabira batool,33-47 years,Divorced ,Option 4,Option 4,Option 4,Option 2,Option 2,Option 4,Option 3,Option 4,Option 3,Option 4,Yes,Moderate,1-2,Yes,Moderate,Not at all satisfied (0%),Moderate
+5/30/2026 13:20:18,Ayesha umair,33-47 years,Doctor,Option 3,Option 2,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 3,Option 2,No,Mild,None,Yes,Mild,Very satisfied (100%),Mild
+5/30/2026 13:25:03,Farhat aman,33-47 years,Housewife,Option 3,Option 4,Option 3,Option 4,Option 0,Option 1,Option 4,Option 3,Option 3,Option 4,Yes,Severe,3,Yes,Moderate,Not at all satisfied (0%),Moderate
+5/30/2026 13:31:44,Nazia begum,33-47 years,Unmarried no job,Option 4,Option 4,Option 2,Option 2,Option 4,Option 2,Option 2,Option 4,Option 4,Option 4,No,No pain(0%),None,Yes,Moderate,Somewhat satisfied,Mild
+5/30/2026 13:35:56,Shabana,33-47 years,Unmarried,Option 4,Option 2,Option 2,Option 4,Option 3,Option 4,Option 3,Option 3,Option 3,Option 3,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+5/30/2026 19:18:23,Narmeen,18-32 years,IT course,Option 2,Option 2,Option 3,Option 1,Option 1,Option 2,Option 1,Option 2,Option 3,Option 2,Yes,Moderate,5,Yes,Mild,Somewhat satisfied,Not at all
+5/30/2026 20:12:47,Aqila ,33-47 years,Housewife ,Option 2,Option 4,Option 3,Option 1,Option 1,Option 2,Option 3,Option 1,Option 2,Option 2,Yes,Moderate,1 day ,Yes,Severe,Not at all satisfied (0%),Moderate
+5/30/2026 20:18:54,Samreen ,33-47 years,House wife ,Option 0,Option 3,Option 3,Option 2,Option 0,Option 2,Option 2,Option 2,Option 4,Option 3,No,No pain(0%),,Yes,Moderate,Not at all satisfied (0%),Moderate
+5/30/2026 21:44:35,Raheen BAIG ,18-32 years,My occupation is teaching ,Option 2,Option 3,Option 2,Option 4,Option 4,Option 2,Option 3,Option 2,Option 2,Option 4,Yes,Mild,,Yes,Mild,Somewhat satisfied,Mild
+5/30/2026 22:21:58,Sahiba,18-32 years,I am house wife,Option 3,Option 2,Option 3,Option 4,Option 2,Option 2,Option 3,Option 1,Option 1,Option 1,No,No pain(0%),0,No,,Very satisfied (100%),Not at all
+5/31/2026 7:30:25,Nighat saleem,33-47 years,None,Option 3,Option 2,Option 3,Option 2,Option 3,Option 3,Option 2,Option 3,Option 3,Option 2,Yes,Moderate,2,Yes,Moderate,Somewhat satisfied,Mild
+5/31/2026 7:32:14,Sangeeta kumari,33-47 years,Doctor,Option 2,Option 2,Option 4,Option 3,Option 3,Option 3,Option 4,Option 2,Option 3,Option 2,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+5/31/2026 7:43:07,Shehnaz shah,33-47 years,Teacher,Option 4,Option 2,Option 2,Option 4,Option 4,Option 2,Option 3,Option 2,Option 3,Option 3,Yes,Mild,No any,Yes,Mild,Very satisfied (100%),Mild
+5/31/2026 7:46:33,Areesha sikander,33-47 years,Housewife,Option 2,Option 1,Option 2,Option 2,Option 4,Option 2,Option 4,Option 2,Option 2,Option 2,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+5/31/2026 7:52:21,Shabnam,33-47 years,Married,Option 3,Option 2,Option 3,Option 2,Option 3,Option 2,Option 3,Option 2,Option 3,Option 3,Yes,Mild,0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 8:47:29,Kaneez e ayesha,33-47 years,Tution teacher,Option 3,Option 1,Option 3,Option 4,Option 4,Option 2,Option 4,Option 4,Option 3,Option 2,Yes,Mild,0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 8:53:13,Bushra khan,33-47 years,Housewife,Option 2,Option 2,Option 3,Option 4,Option 4,Option 1,Option 2,Option 4,Option 3,Option 2,Yes,No pain(0%),1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 8:54:45,Anees zehra,33-47 years,Home baker,Option 3,Option 2,Option 3,Option 4,Option 4,Option 2,Option 4,Option 4,Option 3,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 8:56:44,Maheen,33-47 years,Physiotherapist,Option 2,Option 2,Option 3,Option 4,Option 4,Option 2,Option 4,Option 4,Option 3,Option 2,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 9:00:02,Kanza,33-47 years,"None,  Married",Option 2,Option 2,Option 2,Option 4,Option 4,Option 2,Option 4,Option 2,Option 2,Option 2,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 9:08:15,Shanzay,33-47 years,Dentist,Option 2,Option 2,Option 3,Option 4,Option 3,Option 2,Option 4,Option 4,Option 2,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 9:24:27,Fizza ali,33-47 years,Married,Option 2,Option 2,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 2,Option 1,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 9:34:37,Sukaina shah,33-47 years,Banker,Option 2,Option 2,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 2,Option 2,No,Mild,0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 9:40:49,Fidak zehr,33-47 years,Doctor,Option 2,Option 1,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 2,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 9:50:50,Aneesa khan,33-47 years,Nurse,Option 1,Option 1,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 3,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 9:52:25,Rida zainab,33-47 years,Phd also lecturer,Option 2,Option 2,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 2,No,No pain(0%),0,Yes,Moderate,Very satisfied (100%),Mild
+6/1/2026 10:10:27,Qamar fatima,33-47 years,Married,Option 2,Option 2,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 10:12:22,Mashal,33-47 years,Businesswoman,Option 3,Option 2,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 3,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 10:13:49,Mishaal patha,33-47 years,Housewife,Option 2,Option 2,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 10:21:49,Unsia batool,33-47 years,"None, recently Divorced",Option 4,Option 3,Option 3,Option 1,Option 2,Option 2,Option 1,Option 1,Option 3,Option 4,Yes,Severe,2,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 10:23:42,Muskan,33-47 years,"Home tutor, unmarried ",Option 3,Option 2,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 3,Option 3,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 10:25:09,Shifa zehra,33-47 years,Small content creator,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 10:36:23,Mehak Ali,33-47 years,Housewife,Option 2,Option 2,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 2,Yes,Mild,0,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 10:39:19,Dua zainab,33-47 years,Home tutor,Option 1,Option 1,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 2,Option 4,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 10:40:32,Shehnaz gul,33-47 years,Doctor,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 3,No,No pain(0%),0,Yes,Moderate,Very satisfied (100%),Mild
+6/1/2026 18:17:35,Dua zehra ,33-47 years,Housewife,Option 2,Option 2,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 3,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:19:33,Aliza fatima,33-47 years,Quran teacher,Option 1,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 0,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 18:21:25,Sehrish,33-47 years,Banker,Option 2,Option 1,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 1,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 18:23:16,Alina batool,33-47 years,Doing phd also works as associate professor,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 1,Yes,Mild,I ,Yes,Mild,Somewhat satisfied,Mild
+6/1/2026 18:26:39,Khizra,33-47 years,Nurse,Option 2,Option 2,Option 3,Option 4,Option 3,Option 3,Option 4,Option 3,Option 3,Option 2,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:28:56,Shiza awan,33-47 years,MO,Option 2,Option 0,Option 3,Option 4,Option 3,Option 4,Option 4,Option 3,Option 2,Option 2,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:31:11,Ume abiha,33-47 years,Works at call centre,Option 3,Option 1,Option 3,Option 4,Option 3,Option 4,Option 4,Option 4,Option 2,Option 1,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:32:21,Aiman,33-47 years,Housewife,Option 3,Option 1,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 3,Yes,Mild,2,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:34:14,Anim rizvi,33-47 years,Housewife,Option 2,Option 1,Option 2,Option 4,Option 4,Option 3,Option 4,Option 3,Option 3,Option 1,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:37:04,Faqeeha,33-47 years,Unmarried,Option 4,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 3,Option 4,Option 4,Yes,Moderate,2-3,Yes,Moderate,Not at all satisfied (0%),Moderate
+6/1/2026 18:38:50,Fariba batool,33-47 years,Divorced,Option 3,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 3,Option 3,Yes,Moderate,2-3,Yes,Moderate,Not at all satisfied (0%),Moderate
+6/1/2026 18:41:28,Asiya batool,33-47 years,Teacher,Option 2,Option 2,Option 3,Option 4,Option 4,Option 2,Option 3,Option 3,Option 3,Option 2,Yes,Mild,2,Yes,Mild,Somewhat satisfied,Mild
+6/1/2026 18:44:02,Sidrat ul muntaha,33-47 years,Doing drop out degree back again hence no occupation,Option 3,Option 3,Option 3,Option 4,Option 3,Option 3,Option 3,Option 3,Option 3,Option 2,Yes,Moderate,2,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 18:45:51,Fiza,33-47 years,Dentist,Option 1,Option 2,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 18:47:44,Shaiza,33-47 years,Chef,Option 2,Option 2,Option 2,Option 4,Option 4,Option 3,Option 3,Option 2,Option 3,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 19:52:44,Syeda sidra,33-47 years,Doctor,Option 2,Option 2,Option 3,Option 4,Option 3,Option 2,Option 3,Option 3,Option 1,Option 2,No,No pain(0%),0,Yes,Moderate,Very satisfied (100%),Mild
+6/1/2026 19:58:08,Aleeha naqvi,33-47 years,Doctor,Option 1,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 19:59:31,Rida batool,33-47 years,Unmarried,Option 3,Option 3,Option 3,Option 3,Option 2,Option 2,Option 3,Option 2,Option 3,Option 3,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 20:00:46,Rafiyah,33-47 years,Married,Option 2,Option 1,Option 2,Option 4,Option 3,Option 3,Option 4,Option 3,Option 2,Option 1,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 20:01:43,Alayna khan,33-47 years,Dentist,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 20:57:12,Aliya athar,33-47 years,Housewife,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 0,Yes,Moderate,2,Yes,Severe,Somewhat satisfied,Moderate
+6/1/2026 20:59:26,Adeena shaikh,33-47 years,Freelancer,Option 1,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,Yes,Mild,0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 21:01:20,Filza munawar,33-47 years,Business,Option 2,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 1,Option 0,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/1/2026 21:05:14,Areesha razi,33-47 years,Housewife,Option 1,Option 1,Option 2,Option 4,Option 3,Option 3,Option 4,Option 3,Option 2,Option 0,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 21:06:42,Talab e batool,33-47 years,Business owner,Option 3,Option 0,Option 2,Option 4,Option 3,Option 2,Option 4,Option 3,Option 2,Option 0,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/1/2026 21:08:07,Badar un nisa,33-47 years,Businesswoman,Option 1,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 1,Option 0,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 21:10:02,Begum naseem,33-47 years,Married,Option 2,Option 0,Option 2,Option 4,Option 2,Option 1,Option 4,Option 3,Option 3,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Moderate
+6/1/2026 21:13:36,Nusrat farhan,33-47 years,Married,Option 1,Option 1,Option 3,Option 4,Option 2,Option 3,Option 4,Option 2,Option 2,Option 1,Yes,Mild,1,Yes,Severe,Not at all satisfied (0%),Moderate
+6/1/2026 21:16:13,Faiza awais,33-47 years,Teacher,Option 2,Option 0,Option 3,Option 4,Option 3,Option 2,Option 3,Option 2,Option 2,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Mild
+6/1/2026 21:18:45,Maham ali,33-47 years,Home tutor,Option 0,Option 0,Option 3,Option 4,Option 4,Option 3,Option 4,Option 4,Option 2,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Moderate
+6/2/2026 8:24:18,Afshan ,33-47 years,Hw,Option 1,Option 0,Option 1,Option 4,Option 3,Option 1,Option 3,Option 2,Option 2,Option 1,Yes,Mild,1 week ,No,,Very satisfied (100%),Not at all
+6/2/2026 8:28:18,Ambreena ,33-47 years,Hw,Option 2,Option 4,Option 4,Option 1,Option 2,Option 2,Option 2,Option 1,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/2/2026 8:32:02,Hina ,33-47 years,HW,Option 0,Option 0,Option 0,Option 3,Option 4,Option 1,Option 4,Option 3,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/2/2026 8:39:55,Maria,33-47 years,House cleaning ,Option 3,Option 3,Option 4,Option 3,Option 1,Option 3,Option 3,Option 1,Option 3,Option 3,No,,,Yes,Moderate,Somewhat satisfied,Moderate
+6/2/2026 8:42:33,Bushra ,33-47 years,Teaching ,Option 0,Option 0,Option 0,Option 3,Option 4,Option 2,Option 4,Option 3,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/2/2026 8:46:16,Atia ,48-62 years,Hw,Option 4,Option 4,Option 4,Option 4,Option 1,Option 3,Option 1,Option 1,Option 4,Option 2,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/2/2026 8:50:58,Sumaira,48-62 years,HW,Option 4,Option 4,Option 4,Option 3,Option 2,Option 3,Option 3,Option 2,Option 4,Option 3,Yes,Severe,2-3,Yes,Mild,Somewhat satisfied,Mild
+6/2/2026 8:55:50,Faiza ,48-62 years,HW,Option 0,Option 3,Option 1,Option 4,Option 3,Option 0,Option 4,Option 3,Option 0,Option 0,No,No pain(0%),,Yes,Moderate,Somewhat satisfied,Severe
+6/2/2026 15:53:28,Khadijat ul kubra ,33-47 years,Dpt,Option 2,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/2/2026 15:55:01,Ayesha riaz,33-47 years,Fashion desinger,Option 1,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/2/2026 15:56:19,Bareerah,33-47 years,Doctor,Option 1,Option 0,Option 2,Option 4,Option 4,Option 2,Option 4,Option 4,Option 2,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 15:57:52,Saman chandio,33-47 years,Married,Option 0,Option 0,Option 3,Option 4,Option 3,Option 2,Option 4,Option 4,Option 3,Option 1,Yes,Moderate,2-3,Yes,Moderate,Somewhat satisfied,Moderate
+6/2/2026 16:01:23,Wazeera khatoom,33-47 years,Housewife ,Option 2,Option 0,Option 2,Option 4,Option 4,Option 2,Option 4,Option 3,Option 2,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:03:01,Salma ashique,33-47 years,Housewife,Option 0,Option 0,Option 3,Option 4,Option 3,Option 2,Option 4,Option 3,Option 1,Option 0,Yes,Severe,3-4,Yes,Severe,Not at all satisfied (0%),Severe
+6/2/2026 16:04:46,Uzma hameed,33-47 years,Fashion designer,Option 1,Option 1,Option 3,Option 4,Option 4,Option 3,Option 4,Option 3,Option 1,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:06:07,Shakra hussain,33-47 years,Beautician,Option 3,Option 2,Option 3,Option 4,Option 2,Option 1,Option 4,Option 2,Option 1,Option 1,Yes,Moderate,2,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:07:57,Aqeela alvi ,33-47 years,Parlour owner,Option 0,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 0,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:09:50,Shamsa tabraiz,33-47 years,Textile designer,Option 0,Option 0,Option 3,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 0,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:12:55,Eman fatima,33-47 years,Lady constable,Option 0,Option 2,Option 2,Option 4,Option 3,Option 2,Option 4,Option 4,Option 2,Option 0,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 16:16:25,Aisha umar,33-47 years,Housewife ,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 0,Yes,Mild,1,Yes,Moderate,Very satisfied (100%),Not at all
+6/2/2026 16:34:10,Khadija khan,33-47 years,Houseworker,Option 3,Option 1,Option 3,Option 3,Option 1,Option 1,Option 2,Option 2,Option 3,Option 2,Yes,Moderate,2-3,Yes,Moderate,Not at all satisfied (0%),Moderate
+6/2/2026 17:25:35,Mehak Hussain ,33-47 years,Housewife,Option 2,Option 1,Option 3,Option 3,Option 3,Option 3,Option 2,Option 2,Option 3,Option 3,Yes,Moderate,2,Yes,Moderate,Not at all satisfied (0%),Moderate
+6/2/2026 17:31:01,Mehak hussain,33-47 years,Housewife,Option 2,Option 2,Option 2,Option 4,Option 3,Option 3,Option 4,Option 3,Option 3,Option 1,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 17:34:50,Samreen,33-47 years,JST teacher,Option 2,Option 1,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,Yes,Mild,1,Yes,Mild,Very satisfied (100%),Mild
+6/2/2026 17:42:58,Khushi,33-47 years,Parlour owner,Option 1,Option 2,Option 4,Option 2,Option 2,Option 1,Option 2,Option 2,Option 2,Option 2,Yes,Moderate,2,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 17:49:53,Bakhtawar,33-47 years,Receptionist+divorced,Option 3,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/2/2026 17:51:36,Ume rabab,33-47 years,Henna artist,Option 2,Option 0,Option 3,Option 4,Option 4,Option 3,Option 4,Option 4,Option 2,Option 1,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/2/2026 17:54:14,Faiqah,33-47 years,Housewife,Option 1,Option 0,Option 3,Option 3,Option 3,Option 2,Option 4,Option 4,Option 2,Option 2,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 8:29:38,Nazia,48-62 years,Hw,Option 2,Option 3,Option 3,Option 1,Option 1,Option 3,Option 1,Option 1,Option 3,Option 3,Yes,Moderate,2 days,Yes,Mild,Very satisfied (100%),Not at all
+6/3/2026 8:39:24,Tooba ,48-62 years,Hw ,Option 1,Option 3,Option 2,Option 3,Option 2,Option 1,Option 3,Option 2,Option 4,Option 2,No,No pain(0%),,No,,Very satisfied (100%),Not at all
+6/3/2026 8:43:52,Mrs iqbal ,48-62 years,Teaching ,Option 3,Option 1,Option 3,Option 4,Option 2,Option 1,Option 4,Option 1,Option 3,Option 1,Yes,Moderate,1 day ,No,None,Somewhat satisfied,Mild
+6/3/2026 8:48:24,Nahid naz ,48-62 years,Hw,Option 3,Option 1,Option 3,Option 3,Option 2,Option 2,Option 3,Option 2,Option 3,Option 0,Yes,Mild,2 days ,No,,Very satisfied (100%),Not at all
+6/3/2026 8:52:31,Abida ,48-62 years,Hw,Option 1,Option 1,Option 0,Option 4,Option 3,Option 1,Option 4,Option 1,Option 0,Option 0,No,No pain(0%),,Yes,Moderate,Very satisfied (100%),Not at all
+6/3/2026 8:59:02,N,48-62 years,Hw,Option 3,Option 2,Option 0,Option 4,Option 2,Option 1,Option 4,Option 1,Option 4,Option 0,No,No pain(0%),,No,,Very satisfied (100%),Not at all
+6/3/2026 14:15:59,Ishrat,48-62 years,Hospital duty ,Option 4,Option 3,Option 4,Option 3,Option 3,Option 1,Option 3,Option 1,Option 2,Option 1,Yes,Mild,2 day ,Yes,Mild,Somewhat satisfied,Mild
+6/3/2026 14:22:02,Nazia ,48-62 years,HW ,Option 3,Option 4,Option 4,Option 2,Option 3,Option 1,Option 4,Option 3,Option 1,Option 0,Yes,Mild,1-2 days ,Yes,Moderate,Not at all satisfied (0%),Not at all
+6/3/2026 14:38:35,Azra ,48-62 years,Housewife ,Option 4,Option 3,Option 3,Option 1,Option 1,Option 3,Option 1,Option 3,Option 4,Option 3,Yes,Mild,2 days ,Yes,Very severe,Not at all satisfied (0%),Mild
+6/3/2026 15:23:19,Kaiser ,48-62 years,HW,Option 3,Option 3,Option 3,Option 1,Option 1,Option 1,Option 2,Option 2,Option 2,Option 0,No,No pain(0%),,No,None,Somewhat satisfied,Not at all
+6/3/2026 16:32:15,Ahsifa shaikh,33-47 years,Housewife,Option 0,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 0,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/3/2026 16:34:43,Bibi Nuzhat,33-47 years,Housewife,Option 2,Option 1,Option 3,Option 3,Option 3,Option 3,Option 3,Option 3,Option 2,Option 1,Yes,Mild,2,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 16:36:31,Ghulam fatima,33-47 years,Houswife,Option 2,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 1,Yes,Mild,1,Yes,Moderate,Very satisfied (100%),Mild
+6/3/2026 16:38:44,Mehwish soomro,33-47 years,Content creator,Option 1,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 0,No,No pain(0%),0,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 16:41:02,Urooj naqvi,33-47 years,Proffesor,Option 0,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 16:47:09,Asmat abbas,33-47 years,Headmistress ,Option 1,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 0,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 16:53:40,Aisha dharejo,33-47 years,Housewife,Option 1,Option 1,Option 3,Option 4,Option 3,Option 2,Option 3,Option 2,Option 2,Option 3,Yes,Severe,3-4,Yes,Moderate,Not at all satisfied (0%),Moderate
+6/3/2026 17:00:00,Sidra baloch,33-47 years,Housewife,Option 3,Option 3,Option 3,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Option 2,Yes,Severe,4,Yes,Moderate,Somewhat satisfied,Moderate
+6/3/2026 17:03:50,Malaika,33-47 years,Worker at store,Option 2,Option 0,Option 3,Option 3,Option 3,Option 1,Option 3,Option 2,Option 2,Option 1,Yes,Mild,1,Yes,Moderate,Somewhat satisfied,Mild
+6/3/2026 17:05:33,Muskan arija,33-47 years,accessories business,Option 1,Option 0,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 2,Option 0,No,No pain(0%),0,Yes,Mild,Very satisfied (100%),Not at all
+6/4/2026 8:36:49,Shazia ,48-62 years,Hw,Option 4,Option 4,Option 1,Option 3,Option 3,Option 2,Option 3,Option 1,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/4/2026 8:39:54,Sakina ,48-62 years,Hw,Option 2,Option 3,Option 1,Option 3,Option 0,Option 2,Option 1,Option 0,Option 4,Option 4,No,No pain(0%),,Yes,Very severe,Not at all satisfied (0%),Severe
+6/4/2026 8:42:13,Shazia ,48-62 years,He,Option 3,Option 4,Option 4,Option 4,Option 1,Option 3,Option 1,Option 1,Option 4,Option 4,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/4/2026 8:43:49,Reena ,48-62 years,Hw,Option 4,Option 4,Option 4,Option 4,Option 1,Option 2,Option 1,Option 1,Option 4,Option 4,No,,,Yes,Mild,Very satisfied (100%),Not at all
+6/4/2026 8:45:09,Shehzadi ,48-62 years,Hw,Option 1,Option 0,Option 0,Option 4,Option 3,Option 1,Option 4,Option 1,Option 0,Option 0,No,,,No,None,Very satisfied (100%),Not at all
+6/4/2026 8:47:09,Suduri ,48-62 years,Hw,Option 4,Option 4,Option 1,Option 4,Option 2,Option 2,Option 4,Option 1,Option 2,Option 1,No,,,No,,Very satisfied (100%),Not at all
+6/4/2026 8:50:36,Sarbala ,48-62 years,Hw,Option 4,Option 4,Option 4,Option 4,Option 2,Option 2,Option 1,Option 1,Option 4,Option 2,Yes,Mild,10 days ,Yes,Severe,Very satisfied (100%),Not at all
+6/5/2026 8:39:06,Shahida ,48-62 years,Hw,Option 3,Option 1,Option 3,Option 3,Option 1,Option 3,Option 3,Option 1,Option 3,Option 4,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/5/2026 8:44:50,Atiya khan ,48-62 years,Hw,Option 3,Option 4,Option 4,Option 4,Option 1,Option 1,Option 3,Option 2,Option 3,Option 2,Yes,Mild,1 day ,No,None,Very satisfied (100%),Not at all
+6/5/2026 8:47:19,Shumaila ,48-62 years,Hw,Option 0,Option 0,Option 1,Option 4,Option 3,Option 1,Option 4,Option 1,Option 0,Option 0,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/5/2026 8:51:01,Gul nisa ,18-32 years,Hw,Option 4,Option 4,Option 3,Option 4,Option 2,Option 1,Option 4,Option 1,Option 4,Option 3,Yes,Severe,1 days,No,,Very satisfied (100%),Not at all
+6/5/2026 8:53:27,Zakia ,48-62 years,Hw,Option 1,Option 0,Option 1,Option 4,Option 3,Option 1,Option 3,Option 1,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/5/2026 8:57:25,Parveen ,48-62 years,Hw,Option 3,Option 3,Option 4,Option 0,Option 1,Option 1,Option 1,Option 1,Option 2,Option 3,No,No pain(0%),,Yes,Severe,Very satisfied (100%),Not at all
+6/7/2026 0:19:50,Sumaira,18-32 years,Teacher,Option 0,Option 1,Option 1,Option 3,Option 1,Option 0,Option 3,Option 3,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 0:25:18,Nimra,18-32 years,House Wife,Option 4,Option 3,Option 2,Option 4,Option 0,Option 0,Option 2,Option 2,Option 4,Option 4,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 0:29:05,Sana,18-32 years,Receptionist,Option 2,Option 3,Option 0,Option 3,Option 2,Option 0,Option 4,Option 2,Option 3,Option 4,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 0:36:56,Sarah,18-32 years,Polio worker,Option 0,Option 1,Option 2,Option 2,Option 1,Option 0,Option 2,Option 3,Option 4,Option 3,Yes,Mild,3,Yes,Mild,Somewhat satisfied,Mild
+6/7/2026 0:40:06,Areesha,18-32 years,Bank Manager,Option 2,Option 3,Option 4,Option 4,Option 3,Option 2,Option 2,Option 3,Option 0,Option 1,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 0:41:47,Wania,18-32 years,House Maid,Option 4,Option 3,Option 3,Option 4,Option 3,Option 4,Option 2,Option 3,Option 4,Option 2,Yes,Severe,36,Yes,Moderate,Not at all satisfied (0%),Severe
+6/7/2026 0:59:34,Naheed,18-32 years,School Teacher,Option 1,Option 2,Option 3,Option 4,Option 0,Option 1,Option 2,Option 3,Option 4,Option 2,Yes,Moderate,6,Yes,Mild,Not at all satisfied (0%),Mild
+6/7/2026 1:01:45,Hina Bano,18-32 years,Cooking,Option 3,Option 4,Option 3,Option 2,Option 4,Option 3,Option 4,Option 2,Option 3,Option 2,Yes,Mild,45,Yes,Mild,Somewhat satisfied,Severe
+6/7/2026 1:03:28,Ayesha,18-32 years,Student,Option 0,Option 1,Option 2,Option 1,Option 0,Option 1,Option 0,Option 1,Option 1,Option 2,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:05:41,Anum,18-32 years,House Wife,Option 2,Option 3,Option 4,Option 2,Option 3,Option 3,Option 4,Option 4,Option 3,Option 2,Yes,Mild,2,Yes,Mild,Somewhat satisfied,Mild
+6/7/2026 1:07:04,Alishba,18-32 years,Nurse,Option 0,Option 1,Option 2,Option 1,Option 1,Option 2,Option 0,Option 2,Option 0,Option 1,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:08:48,Kiran,18-32 years,Engineer ,Option 0,Option 1,Option 1,Option 2,Option 3,Option 4,Option 0,Option 1,Option 2,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:09:59,Summan,18-32 years,House Wife,Option 0,Option 1,Option 2,Option 1,Option 0,Option 0,Option 2,Option 2,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:11:11,Emaan,18-32 years,Student,Option 0,Option 0,Option 0,Option 0,Option 0,Option 0,Option 0,Option 0,Option 0,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:12:51,Shazia,18-32 years,Gym Trainer,Option 1,Option 2,Option 3,Option 0,Option 1,Option 4,Option 3,Option 1,Option 0,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:14:13,Kinza,18-32 years,Cricket Coach,Option 0,Option 1,Option 3,Option 4,Option 2,Option 0,Option 1,Option 2,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/7/2026 1:15:51,Gul E Rana,18-32 years,House Wife,Option 1,Option 2,Option 3,Option 4,Option 3,Option 4,Option 3,Option 3,Option 3,Option 4,Yes,Moderate,34,Yes,Severe,Not at all satisfied (0%),Severe
+6/7/2026 1:17:53,Maria,18-32 years,Computer operator,Option 3,Option 4,Option 2,Option 1,Option 0,Option 3,Option 1,Option 3,Option 1,Option 2,Yes,Mild,6,Yes,Mild,Somewhat satisfied,Severe
+6/8/2026 2:18:48,Aisha Rehan,18-32 years,House Wife,Option 0,Option 1,Option 2,Option 1,Option 1,Option 2,Option 0,Option 1,Option 0,Option 1,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:20:57,Shahnila,18-32 years,House Wife,Option 3,Option 4,Option 4,Option 2,Option 4,Option 3,Option 3,Option 3,Option 4,Option 4,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:22:13,Atiya Faheem,18-32 years,Social worker,Option 3,Option 4,Option 2,Option 3,Option 4,Option 4,Option 2,Option 3,Option 4,Option 3,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:23:20,Aiman Shah,18-32 years,House Wife,Option 0,Option 1,Option 1,Option 2,Option 0,Option 1,Option 0,Option 1,Option 0,Option 1,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:25:03,Kirat Ali,18-32 years,Psychologist,Option 1,Option 0,Option 2,Option 3,Option 4,Option 1,Option 0,Option 1,Option 2,Option 3,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:26:02,Sana Alam,18-32 years,House Wife,Option 2,Option 3,Option 3,Option 4,Option 3,Option 4,Option 3,Option 3,Option 4,Option 4,Yes,Mild,4,Yes,Mild,Somewhat satisfied,Moderate
+6/8/2026 2:27:34,Samiya Raza,18-32 years,Physiotherapist,Option 0,Option 1,Option 0,Option 2,Option 0,Option 1,Option 1,Option 0,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:28:47,Anila Yousuf,18-32 years,House Wife,Option 2,Option 3,Option 3,Option 2,Option 4,Option 4,Option 4,Option 4,Option 4,Option 3,Yes,Moderate,15,Yes,Severe,Not at all satisfied (0%),Severe
+6/8/2026 2:30:36,Javeria Rabi,18-32 years,Computer Engineer,Option 0,Option 0,Option 1,Option 2,Option 1,Option 2,Option 0,Option 1,Option 0,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:31:44,Hania,18-32 years,Hospital receptionist ,Option 0,Option 0,Option 1,Option 2,Option 0,Option 1,Option 1,Option 0,Option 2,Option 2,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 2:33:04,Palwasha,18-32 years,House Maid,Option 3,Option 2,Option 4,Option 3,Option 4,Option 4,Option 4,Option 4,Option 3,Option 3,Yes,Mild,15,Yes,Severe,Not at all satisfied (0%),100% completely interferes
+6/8/2026 3:22:56,Zara,18-32 years,Office secretary ,Option 2,Option 1,Option 0,Option 3,Option 4,Option 2,Option 4,Option 2,Option 1,Option 3,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 3:24:39,Wahiba,18-32 years,Hotel waiter,Option 4,Option 3,Option 2,Option 3,Option 4,Option 4,Option 2,Option 2,Option 3,Option 0,Yes,Severe,56,Yes,Moderate,Not at all satisfied (0%),100% completely interferes
+6/8/2026 3:27:37,Arfa Arif,18-32 years,Police Officer,Option 0,Option 1,Option 2,Option 2,Option 1,Option 2,Option 0,Option 1,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 3:29:00,Hafsa,18-32 years,Medical Student ,Option 1,Option 0,Option 0,Option 2,Option 3,Option 4,Option 0,Option 1,Option 2,Option 1,No,No pain(0%),0,No,None,Somewhat satisfied,Not at all
+6/8/2026 3:30:27,Yumna khan,18-32 years,Modeling ,Option 0,Option 0,Option 3,Option 4,Option 2,Option 1,Option 2,Option 4,Option 1,Option 0,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 3:33:07,Sania ,18-32 years,Content creator ,Option 2,Option 1,Option 2,Option 3,Option 1,Option 0,Option 4,Option 0,Option 3,Option 1,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 3:34:53,Warda khan,18-32 years,Writer ,Option 0,Option 2,Option 1,Option 2,Option 0,Option 0,Option 2,Option 3,Option 4,Option 2,No,No pain(0%),0,No,None,Very satisfied (100%),Not at all
+6/8/2026 8:34:52,Falak naz ,48-62 years,Hw,Option 3,Option 1,Option 4,Option 3,Option 2,Option 1,Option 2,Option 1,Option 3,Option 1,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/8/2026 8:39:43,Amina ,48-62 years,Hw,Option 3,Option 1,Option 1,Option 3,Option 1,Option 1,Option 1,Option 1,Option 4,Option 0,No,No pain(0%),,No,,Very satisfied (100%),Not at all
+6/8/2026 8:46:48,Salma ,48-62 years,He,Option 4,Option 1,Option 0,Option 4,Option 3,Option 1,Option 3,Option 1,Option 4,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/8/2026 8:49:16,Karima ,48-62 years,Hw,Option 4,Option 3,Option 4,Option 3,Option 3,Option 1,Option 3,Option 1,Option 1,Option 4,No,,,Yes,Moderate,Somewhat satisfied,Moderate
+6/8/2026 8:52:44,Malkeeza ,48-62 years,Hw,Option 3,Option 4,Option 3,Option 4,Option 1,Option 3,Option 3,Option 0,Option 4,Option 0,No,No pain(0%),,Yes,None,Somewhat satisfied,Not at all
+6/8/2026 8:55:00,Jannat roza ,48-62 years,Hw,Option 0,Option 0,Option 0,Option 3,Option 1,Option 1,Option 3,Option 1,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/8/2026 8:57:12,Sidra ,48-62 years,Hw,Option 4,Option 4,Option 3,Option 0,Option 1,Option 3,Option 0,Option 1,Option 4,Option 1,Yes,Moderate,1 day ,Yes,Severe,Somewhat satisfied,Severe
+6/8/2026 9:00:29,Fehmida ,48-62 years,Job ,Option 4,Option 4,Option 4,Option 4,Option 1,Option 1,Option 4,Option 0,Option 1,Option 1,Yes,Moderate,3days ,Yes,Severe,Somewhat satisfied,Not at all
+6/11/2026 8:46:51,Zareen ,48-62 years,Hw,Option 4,Option 4,Option 4,Option 0,Option 2,Option 2,Option 0,Option 2,Option 3,Option 2,Yes,Moderate,2 days ,No,None,Somewhat satisfied,Mild
+6/11/2026 8:50:12,Farzana ,48-62 years,Hw,Option 3,Option 0,Option 0,Option 4,Option 3,Option 2,Option 4,Option 2,Option 0,Option 0,No,No pain(0%),,Yes,Moderate,Somewhat satisfied,Moderate
+6/11/2026 8:52:25,Mariam,48-62 years,Hw,Option 4,Option 2,Option 3,Option 3,Option 1,Option 2,Option 3,Option 1,Option 1,Option 2,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+6/12/2026 8:37:35,Ambreen ,48-62 years,Hw,Option 0,Option 0,Option 0,Option 3,Option 2,Option 1,Option 3,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/12/2026 8:41:22,Azeema,48-62 years,Hw,Option 0,Option 0,Option 0,Option 1,Option 2,Option 1,Option 1,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Somewhat satisfied,Mild
+6/12/2026 8:43:45,Zubaida ,48-62 years,Hw,Option 3,Option 0,Option 0,Option 3,Option 3,Option 1,Option 3,Option 1,Option 2,Option 0,Yes,Severe,4 days ,Yes,Mild,Somewhat satisfied,Mild
+6/12/2026 8:45:14,Sartaj ,48-62 years,Hw,Option 1,Option 0,Option 0,Option 3,Option 2,Option 1,Option 3,Option 1,Option 0,Option 0,No,No pain(0%),,Yes,Severe,Somewhat satisfied,Severe
+6/12/2026 8:51:28,Fouzia ,48-62 years,Hw ,Option 2,Option 1,Option 3,Option 4,Option 2,Option 1,Option 3,Option 0,Option 4,Option 1,No,No pain(0%),,Yes,Severe,Somewhat satisfied,Moderate
+6/13/2026 1:30:21,Zareena,48-62 years,Hw,Option 1,Option 0,Option 0,Option 3,Option 2,Option 2,Option 4,Option 2,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:32:01,Nousheen,48-62 years,Hw,Option 0,Option 0,Option 0,Option 4,Option 3,Option 0,Option 4,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:33:56,Kainat ,48-62 years,Hw,Option 0,Option 0,Option 2,Option 0,Option 1,Option 2,Option 0,Option 0,Option 0,Option 0,Yes,Moderate,1 day ,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:35:41,Safiya,48-62 years,Hw,Option 3,Option 3,Option 1,Option 3,Option 2,Option 2,Option 3,Option 0,Option 3,Option 1,No,No pain(0%),,Yes,Moderate,Somewhat satisfied,Mild
+6/13/2026 1:39:45,Seema ,48-62 years,Hw,Option 0,Option 1,Option 1,Option 3,Option 2,Option 2,Option 3,Option 1,Option 1,Option 0,Yes,Moderate,2 days,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:41:20,Salma ,48-62 years,Hw,Option 0,Option 0,Option 0,Option 3,Option 1,Option 0,Option 1,Option 0,Option 0,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:42:42,Rajmeena,48-62 years,Hw,Option 2,Option 0,Option 2,Option 4,Option 2,Option 0,Option 3,Option 0,Option 0,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:44:24,Shahjahan ,48-62 years,Hw,Option 4,Option 4,Option 0,Option 3,Option 1,Option 0,Option 0,Option 0,Option 0,Option 4,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+6/13/2026 1:46:16,Shahana,48-62 years,Hw,Option 4,Option 0,Option 1,Option 4,Option 4,Option 0,Option 4,Option 0,Option 0,Option 1,No,No pain(0%),,No,None,Somewhat satisfied,Mild
+6/13/2026 1:49:43,Seema. ,48-62 years,Hw,Option 2,Option 1,Option 3,Option 1,Option 1,Option 0,Option 1,Option 0,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:51:27,Abida,48-62 years,Hw,Option 3,Option 3,Option 3,Option 2,Option 0,Option 3,Option 2,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 1:52:52,Nousheen ,48-62 years,Hw,Option 1,Option 2,Option 2,Option 2,Option 2,Option 1,Option 2,Option 1,Option 4,Option 1,Yes,Mild,2 days,No,None,Somewhat satisfied,Mild
+6/13/2026 1:54:05,Hajra,48-62 years,Hw,Option 0,Option 0,Option 0,Option 4,Option 4,Option 0,Option 4,Option 0,Option 3,Option 0,Yes,Mild,1 day,Yes,Mild,Very satisfied (100%),Mild
+6/13/2026 9:01:10,Shabana ,48-62 years,Hw ,Option 3,Option 3,Option 1,Option 4,Option 2,Option 1,Option 3,Option 1,Option 1,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:02:57,Soniya ,48-62 years,Worker ,Option 3,Option 4,Option 4,Option 1,Option 2,Option 1,Option 1,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:05:24,Irshad ,48-62 years,Hw,Option 4,Option 3,Option 1,Option 2,Option 2,Option 1,Option 1,Option 1,Option 3,Option 1,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/13/2026 9:06:50,Saima ,48-62 years,Hw ,Option 3,Option 1,Option 4,Option 4,Option 2,Option 1,Option 3,Option 1,Option 4,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:08:18,Asiya ,48-62 years,Shw ,Option 0,Option 0,Option 0,Option 1,Option 2,Option 1,Option 1,Option 1,Option 3,Option 1,Yes,Mild,1 day ,Yes,Mild,Very satisfied (100%),Not at all
+6/13/2026 9:09:41,Shazia ,48-62 years,House cleaning ,Option 0,Option 0,Option 1,Option 4,Option 3,Option 1,Option 3,Option 0,Option 3,Option 0,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+6/13/2026 9:11:01,Seema ,48-62 years,Hw,Option 0,Option 0,Option 0,Option 3,Option 1,Option 0,Option 3,Option 0,Option 1,Option 0,No,No pain(0%),,No,None,Somewhat satisfied,Not at all
+6/13/2026 9:12:41,Anees fatima ,48-62 years,Hw ,Option 3,Option 4,Option 3,Option 4,Option 3,Option 1,Option 3,Option 0,Option 2,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:14:50,Seema ,48-62 years,Hw,Option 4,Option 4,Option 4,Option 0,Option 0,Option 1,Option 1,Option 0,Option 2,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:15:57,Sumaira ,48-62 years,Hw,Option 4,Option 3,Option 0,Option 3,Option 1,Option 1,Option 4,Option 1,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/13/2026 9:19:46,Haleema ,48-62 years,Hw,Option 3,Option 4,Option 3,Option 4,Option 2,Option 1,Option 1,Option 1,Option 0,Option 0,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/15/2026 8:06:23,Hafeeza ,48-62 years,Hw,Option 0,Option 2,Option 0,Option 3,Option 3,Option 1,Option 3,Option 0,Option 2,Option 0,No,No pain(0%),,No,None,Somewhat satisfied,Not at all
+6/15/2026 8:07:33,Aanaa,48-62 years,Hw,Option 1,Option 1,Option 0,Option 4,Option 2,Option 0,Option 3,Option 0,Option 2,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 8:09:50,Rehana,48-62 years,Hw,Option 1,Option 2,Option 2,Option 3,Option 2,Option 0,Option 0,Option 0,Option 4,Option 1,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 8:12:01,Lubna ,48-62 years,Hw,Option 3,Option 3,Option 4,Option 1,Option 2,Option 0,Option 2,Option 0,Option 4,Option 0,Yes,Mild,1,Yes,Mild,Somewhat satisfied,Not at all
+6/15/2026 8:13:28,Huma,48-62 years,Hw,Option 3,Option 0,Option 3,Option 4,Option 3,Option 0,Option 3,Option 0,Option 3,Option 1,Yes,Moderate,1,Yes,Moderate,Somewhat satisfied,Mild
+6/15/2026 8:16:18,Mariam,48-62 years,Hw,Option 3,Option 3,Option 3,Option 2,Option 1,Option 2,Option 2,Option 1,Option 2,Option 0,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Not at all
+6/15/2026 8:20:50,Sana,48-62 years,Hw,Option 1,Option 0,Option 0,Option 1,Option 1,Option 1,Option 2,Option 0,Option 3,Option 1,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/15/2026 8:22:21,Wajiha ,48-62 years,Hw,Option 1,Option 3,Option 4,Option 1,Option 2,Option 0,Option 2,Option 0,Option 4,Option 1,Yes,Moderate,4 days,Yes,Mild,Somewhat satisfied,Mild
+6/15/2026 8:23:37,Shakeela,48-62 years,Hw,Option 3,Option 2,Option 0,Option 4,Option 3,Option 0,Option 2,Option 0,Option 4,Option 0,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Mild
+6/15/2026 8:24:55,Nida,48-62 years,Hw,Option 0,Option 0,Option 0,Option 4,Option 2,Option 0,Option 3,Option 0,Option 1,Option 0,No,No pain(0%),,No,None,Not at all satisfied (0%),Mild
+6/15/2026 8:26:08,Yasmeen,48-62 years,Hw,Option 0,Option 3,Option 3,Option 3,Option 3,Option 0,Option 3,Option 0,Option 3,Option 2,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 8:27:28,Sadaf,48-62 years,Hw,Option 4,Option 0,Option 3,Option 3,Option 2,Option 1,Option 2,Option 0,Option 2,Option 0,Yes,Mild,1 day ,No,None,Somewhat satisfied,Not at all
+6/15/2026 8:45:08,Gulshan ,48-62 years,House cleaninng ,Option 3,Option 2,Option 3,Option 1,Option 2,Option 1,Option 3,Option 1,Option 2,Option 0,No,No pain(0%),,Yes,Mild,Very satisfied (100%),Not at all
+6/15/2026 8:47:13,Zainab ,48-62 years,Hw,Option 0,Option 2,Option 4,Option 0,Option 0,Option 1,Option 1,Option 1,Option 4,Option 3,No,No pain(0%),,Yes,Mild,Somewhat satisfied,Severe
+6/15/2026 8:49:34,Noor jahan ,48-62 years,Hw,Option 4,Option 2,Option 4,Option 2,Option 0,Option 3,Option 1,Option 1,Option 3,Option 3,Yes,Mild,1 day ,Yes,Moderate,Somewhat satisfied,Severe
+6/15/2026 22:32:43,Shameera,48-62 years,Hw,Option 2,Option 1,Option 0,Option 2,Option 3,Option 1,Option 3,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 22:33:47,Roshna ,48-62 years,Hw,Option 1,Option 1,Option 1,Option 2,Option 2,Option 1,Option 2,Option 1,Option 4,Option 1,No,No pain(0%),,No,None,Somewhat satisfied,Not at all
+6/15/2026 22:35:01,Nawab ,48-62 years,Hw,Option 3,Option 0,Option 2,Option 3,Option 2,Option 0,Option 3,Option 1,Option 2,Option 3,Yes,Moderate,4 days ,Yes,Mild,Somewhat satisfied,Moderate
+6/15/2026 22:36:20,Shazia ,48-62 years,Hw ,Option 1,Option 4,Option 3,Option 4,Option 1,Option 3,Option 3,Option 2,Option 4,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 22:37:46,Rukhsana ,48-62 years,Hw ,Option 0,Option 3,Option 0,Option 0,Option 0,Option 2,Option 3,Option 0,Option 4,Option 2,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
+6/15/2026 22:39:11,Roshan ,48-62 years,Hw ,Option 3,Option 3,Option 4,Option 3,Option 1,Option 2,Option 1,Option 1,Option 2,Option 1,Yes,Mild,6 days ,Yes,Mild,Not at all satisfied (0%),Not at all
+6/15/2026 22:40:25,Fehmida ,48-62 years,Hw ,Option 4,Option 3,Option 2,Option 3,Option 2,Option 1,Option 3,Option 0,Option 4,Option 2,Yes,Moderate,3 days ,No,None,Not at all satisfied (0%),Moderate
+6/15/2026 22:41:32,Azmat ,48-62 years,Hw ,Option 3,Option 3,Option 4,Option 1,Option 1,Option 3,Option 2,Option 1,Option 2,Option 2,Yes,Severe,7 days ,Yes,Severe,Not at all satisfied (0%),Moderate
+6/15/2026 22:42:42,Hamida ,48-62 years,Hw ,Option 2,Option 1,Option 0,Option 2,Option 3,Option 1,Option 3,Option 1,Option 1,Option 0,No,No pain(0%),,No,None,Very satisfied (100%),Not at all
